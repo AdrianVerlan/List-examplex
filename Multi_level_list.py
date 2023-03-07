@@ -19,7 +19,7 @@ for bi in range(2):
     print("Lesson:", end=" ")
    
     for li in range(4):
-        print(f'  | ',li+1 , end="")
+        print(f'  |L',li+1 , end="")
     print()
     for si in range(3):
         print(f'{students[si] }',end= "")
